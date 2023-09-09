@@ -249,9 +249,9 @@ p{
   } 
 }
 .fa {
-    padding: 20px;
-    font-size: 30px;
-    width: 30px;
+    padding: 70px;
+    font-size: 100px;
+    width: 50px;
     text-align: center;
     text-decoration: none;
     border-radius: 0%;
@@ -264,11 +264,11 @@ p{
   
   /* Set a specific color for each brand */
   
-   Facebook 
+   /*Facebook */
   .fa-facebook {
-     padding: 80px;
-    font-size: 40px;
-    width: 80px;
+    .fa-facebook {
+        background: #ebeef5;
+        color: white;
   }
   
   /* Twitter 
